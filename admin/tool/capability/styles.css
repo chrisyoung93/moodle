@@ -27,6 +27,6 @@
 .path-admin-tool-capability .comparisontable tbody td {border:1px solid #DFDFDF;}
 
 .path-admin-tool-capability .comparisontable .inherit {color:#666;}
-.path-admin-tool-capability .comparisontable .allow {color:#006600;font-weight:bold;}
-.path-admin-tool-capability .comparisontable .prevent {color:#ad6704;font-weight:bold;}
-.path-admin-tool-capability .comparisontable .prohibit {color:#880000;font-weight:bold;}
+.path-admin-tool-capability .comparisontable .allow {color:#006600;font-weight:bold; color: #ffffff;}
+.path-admin-tool-capability .comparisontable .prevent {color:#ad6704;font-weight:bold; color: #ffffff;}
+.path-admin-tool-capability .comparisontable .prohibit {color:#880000;font-weight:bold; color: #ffffff;}
